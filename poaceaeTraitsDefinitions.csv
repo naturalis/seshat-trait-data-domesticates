@@ -1,0 +1,40 @@
+OriginalName,Source,Units,Definitions
+Aspect,https://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-database-v12/en/,clockwise in degrees,"The compass direction that a topographic slope faces, usually measured in degrees from north. Aspect can be generated from continuous elevation surfaces."
+BulkDensity,http://globalchange.bnu.edu.cn/research/soilw,g/cm3,The soil bulk density (BD) is the mass of soil material divided by the total volume of solids and pores.
+AnnualPET,https://envirem.github.io/,millimeters/year,"Annual potential evapotranspiration: a measure of the ability of the atmosphere to remove water through evapotranspiration processes, given unlimited moisture."
+AridityIndexThornthwaite,https://envirem.github.io/,-,Thornthwaite aridity index: Index of the degree of water deficit below water need. This measure is strongly influenced by how much water is available.
+ClimaticMoistureIndex,https://envirem.github.io/,-,A metric of relative wetness and aridity.
+Continentality,https://envirem.github.io/,°C,Average temp. of warmest month - average temp. of coldest month.
+EmbergerQ,https://envirem.github.io/,-,Emberger’s pluviothermic quotient: a metric that was designed to differentiate among Mediterranean type climates.
+GrowingDegDays0 ,https://envirem.github.io/,-,Sum of mean monthly temperature for months with mean temperature greater than 0℃ multiplied by number of days. 
+GrowingDegDays5,https://envirem.github.io/,-,Sum of mean monthly temperature for months with mean temperature greater than 5℃ multiplied by number of days.
+MaxTempColdest,https://envirem.github.io/,°C * 10,Maximum temperature of the coldest month.
+MinTempWarmest,https://envirem.github.io/,°C * 10,Minimum temperature of the warmest month.
+MonthCountByTemp10,https://envirem.github.io/,months,Count of the number of months with mean temp greater than 10℃.
+PETColdestQuarter,https://envirem.github.io/,mm/month,"Mean monthly PET of coldest quarter. PET = potential evapotranspiration, a measure of the ability of the atmosphere to remove water through evapotranspiration processes, given unlimited moisture."
+PETseasonality,https://envirem.github.io/,mm/month,Monthly variability in potential evapotranspiration. 
+PETWarmestQuarter,https://envirem.github.io/,mm/month,Mean monthly PET of warmest quarter.
+PETWettestQuarter,https://envirem.github.io//,mm/month,Mean monthly PET of wettest quarter.
+ThermicityIndex,https://envirem.github.io/,°C ,"Compensated thermicity index: sum of mean annual temp., min. temp. of coldest month, max. temp. of the coldest month, x 10, with compensations for better comparability across the globe."
+OrganicCarbon,http://globalchange.bnu.edu.cn/research/soilw,% of weight,The soil organic carbon (SOC) increases the water-holding capacity of soil.
+PhCaCL,http://globalchange.bnu.edu.cn/research/soilw,pH measured in CaCI2 solution,"pH, measured in CaCl2 solution. A low pH means an acidic soil."
+Slope,https://www.fao.org/soils-portal/soil-survey/soil-maps-and-databases/harmonized-world-soil-database-v12/en/,percent,Slope is the percent change in elevation over a certain distance.
+BIO1,https://www.worldclim.org/data/bioclim.html,°C,Annual Mean Temperature
+BIO2,https://www.worldclim.org/data/bioclim.htmll,°C,Mean Diurnal Range (Mean of monthly (max temp - min temp))
+BIO3,https://www.worldclim.org/data/bioclim.html,°C,Isothermality (BIO2/BIO7) (×100)
+BIO4,https://www.worldclim.org/data/bioclim.html,°C,Temperature Seasonality (standard deviation ×100)
+BIO5,https://www.worldclim.org/data/bioclim.html,°C,Maximum Temperature of Warmest Month
+BIO6,https://www.worldclim.org/data/bioclim.html,°C,Minimum Temperature of Coldest Month
+BIO7,https://www.worldclim.org/data/bioclim.html,°C,Temperature Annual Range (BIO5-BIO6)
+BIO8,https://www.worldclim.org/data/bioclim.html,°C,Mean Temperature of Wettest Quarter
+BIO9,https://www.worldclim.org/data/bioclim.html,°C,Mean Temperature of Driest Quarter
+BIO10,https://www.worldclim.org/data/bioclim.html,°C,Mean Temperature of Warmest Quarter
+BIO11,https://www.worldclim.org/data/bioclim.html,°C,Mean Temperature of Coldest Quarter
+BIO12,https://www.worldclim.org/data/bioclim.html,millimeters ,Annual Precipitation
+BIO13,https://www.worldclim.org/data/bioclim.html,millimeters,Precipitation of Wettest Month
+BIO14,https://www.worldclim.org/data/bioclim.html,millimeters,Precipitation of Driest Month
+BIO15,https://www.worldclim.org/data/bioclim.html,millimeters,Precipitation Seasonality (Coefficient of Variation)
+BIO16,https://www.worldclim.org/data/bioclim.html,millimeters,Precipitation of Wettest Quarter
+BIO17,https://www.worldclim.org/data/bioclim.html,millimeters,Precipitation of Driest Quarter
+BIO18,https://www.worldclim.org/data/bioclim.html,millimeters,Precipitation of Warmest Quarter
+BIO19,https://www.worldclim.org/data/bioclim.html,millimeters,Precipitation of Coldest Quarter
