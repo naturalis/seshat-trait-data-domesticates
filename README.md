@@ -64,7 +64,22 @@ Raw_means.csv: https://github.com/naturalis/seshat-trait-data-domesticates/blob/
 
 •	Definition;
 
-•	Unit.
+•	Unit.  
+
+# The traits for ungulates are organized with aid of a spreadsheet and the following separate column descriptions: 
+
+•	Original Name;
+
+•	Short Name;
+
+•	Source;
+
+•	URI;
+
+•	Unit;
+
+•	Definition.
+
 
 # CC0 license
 The data is available to the public domain. We give up the rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law:
@@ -126,17 +141,4 @@ c.	Affirmer disclaims responsibility for clearing rights of other persons that m
 
 d.	Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
 
-# The traits for ungulates are organized with aid of a spreadsheet and the following separate column descriptions: 
-
-•	Original Name;
-
-•	Short Name;
-
-•	Source;
-
-•	URI;
-
-•	Unit;
-
-•	Definition.
 
