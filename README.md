@@ -1,4 +1,4 @@
-Contents of the repository
+# Contents of the repository
 The repository contains data about ungulates and grasses that can be applied in understanding major trends in human history. This data is significant in studying how civilizations flourished throughout the past. Studying this data sheds light onto the social-, health-, political- and environmental choices of past societies.
 
 The goal
