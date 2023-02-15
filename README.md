@@ -14,25 +14,25 @@ unanswered questions about human life.
 
 # Links to the data
 
-- The data is aggregated in this repository:  https://github.com/naturalis/seshat-trait-data-domesticates 
-- The data for ungulates came from: https://github.com/naturalis/trait-organismal-ungulates/tree/master/data/CSV
-- The data for poaceae came from: https://github.com/naturalis/trait-functional-poaceae/tree/main/data
-
-# These CSV files contain ungulate trait data, trait definitions, and trait sources:
-
+# Ungulates
+## Data and metadata files
 - Ungulatestraits.csv: https://github.com/naturalis/seshat-trait-data-domesticates/blob/main/ungulatesTraits.csv
 - traits.csv: https://github.com/naturalis/trait-organismal-ungulates/blob/master/data/CSV/ungulatesTraits.csv
 
-# These CSV files contain poaceae seed mass, trait data, trait definitions, and trait sources:
-
+## Origin
+- https://github.com/naturalis/trait-organismal-ungulates/tree/master/data/CSV
+ 
+# Poaceae
+## Data and metadata files
 - poaceae_seedmasses.csv: https://github.com/naturalis/seshat-trait-data-domesticates/blob/main/poaceae_seedmasses.csv 
 - poaceae_traits.csv: https://github.com/naturalis/trait-functional-poaceae/blob/main/data/poaceae_traits.csv
-- poales_seedmasses.csv: https://github.com/naturalis/trait-functional-poaceae/blob/main/data/poales_seedmasses.csv
-- poales_traits.csv: https://github.com/naturalis/trait-functional-poaceae/blob/main/data/poales_traits.csv
+-	poales_seedmasses.csv: https://github.com/naturalis/trait-functional-poaceae/blob/main/data/poales_seedmasses.csv
+-	poales_traits.csv: https://github.com/naturalis/trait-functional-poaceae/blob/main/data/poales_traits.csv
+-	Raw_means.csv: https://github.com/naturalis/seshat-trait-data-domesticates/blob/main/raw_means.csv
 
-# This CSV file contains a table of environmental variables for many angiosperm species:
+## Origin 
+-  https://github.com/naturalis/trait-functional-poaceae/tree/main/data
 
-- Raw_means.csv: https://github.com/naturalis/seshat-trait-data-domesticates/blob/main/raw_means.csv
 
 # Organization of data
 
