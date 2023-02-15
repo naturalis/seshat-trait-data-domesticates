@@ -1,12 +1,12 @@
 # Contents of the repository
 
-This repository aggregates comparative trait data for Ungulates and Poaceae. The repository contains 
-data about ungulates and grasses that can be applied in understanding major trends in human history. 
-This data is significant in studying how civilizations flourished throughout the past. Studying this 
-data sheds light onto the social-, health-, political- and environmental choices of past societies.
+This repository aggregates comparative trait data for Ungulates and Poaceae that can be applied to 
+the study of major trends in human history, shedding light on the social, health, political and 
+environmental choices of past societies.
 
 # The goal
-Our goal is to present these datasets to the SESHAT and provide historical, environmental, biological 
+
+Our goal is to present these datasets to the SESHAT database and provide historical, environmental, biological 
 and social data to the database. The ungulates and grasses datasets contribute to the study of ancient 
 human diets, secondary (food)production and toolmaking and show the crucial role of domesticated and 
 wild hooved animals and grasses and cereals. These datasets bring us one step closer to solve 
